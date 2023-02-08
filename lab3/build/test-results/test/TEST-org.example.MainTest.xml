@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-01T07:34:07" hostname="DESKTOP-HAPLGAQ" time="0.013">
+  <properties/>
+  <testcase name="earnings" classname="org.example.MainTest" time="0.013"/>
+  <system-out><![CDATA[Р’С‹РіРѕРґРЅРѕРµ СЂРµС€РµРЅРёРµ СѓСЃРЅ РґРѕС…РѕРґС‹: 120.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
